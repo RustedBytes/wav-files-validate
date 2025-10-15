@@ -1,4 +1,4 @@
-# `wav-files-validate`
+# wav-files-validate
 
 A command-line tool to recursively validate the integrity of WAV audio files in a directory and copy invalid files to an output directory.
 
