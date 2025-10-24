@@ -109,3 +109,17 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 
 - Built with Rust's excellent ecosystem.
 - Thanks to the `hound` crate maintainers for robust WAV handling.
+
+
+## Cite
+
+```
+@software{Smoliakov_Wav_Files_Toolkit,
+  author = {Smoliakov, Yehor},
+  month = oct,
+  title = {{WAV Files Toolkit: A suite of command-line tools for common WAV audio processing tasks, including conversion from other formats, data augmentation, loudness normalization, spectrogram generation, and validation.}},
+  url = {https://github.com/RustedBytes/wav-files-toolkit},
+  version = {0.4.0},
+  year = {2025}
+}
+```
